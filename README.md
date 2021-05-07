@@ -24,4 +24,4 @@
   </tr>
 </table>
 
-[![Github All Releases](https://img.shields.io/github/downloads/GH0STH4CKER/Lan_IP_Scanner/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/GH0STH4CKER/song_downloaderr/total.svg)]()
