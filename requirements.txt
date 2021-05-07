@@ -1,0 +1,6 @@
+pyarmor==6.6.2
+bs4==0.0.1
+beautifulsoup4==4.9.1
+colorama==0.4.3
+tqdm==4.48.2
+requests==2.25.1
