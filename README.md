@@ -26,5 +26,3 @@
     <td><a href="https://t.me/Dimuth92"><img src="https://i.ibb.co/DGF0tb8/telegram.png"><br>Telegram</a></td>
   </tr>
 </table>
-
-[![Github All Releases](https://img.shields.io/github/downloads/GH0STH4CKER/song_downloader/total.svg)]()
